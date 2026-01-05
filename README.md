@@ -1,2 +1,2 @@
-# chai_aur_code_-javascipt
+#chai-and-code-js
 a new repo for javascript 
